@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -Wall -O2    CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/apps/global.cpp.o CMakeFiles/main.dir/apps/HTTP360buyStream.cpp.o CMakeFiles/main.dir/apps/PageDownloader.cpp.o CMakeFiles/main.dir/apps/URLElesupStream.cpp.o CMakeFiles/main.dir/apps/BookInfo.cpp.o  -o ../../bin/main -rdynamic -L/usr/local/lib -lcurl -Wl,-rpath,/usr/local/lib 

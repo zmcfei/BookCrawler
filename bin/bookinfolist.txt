@@ -1,0 +1,120 @@
+bookname = Five Roald Dahl Stories [Audio CD]
+Authoername = Roald Dahl（罗尔德·达尔）
+price = ￥149.60（4.5折）
+PubDate = 出版时间：2009年06月
+ProductNum = 
+TheHtml = http://book.360buy.com/19026598.html
+evaluate = 
+
+bookname = To Kill A Mockingbird(Audio CD)
+Authoername = Harper Lee
+price = ￥228.50（6折）
+PubDate = 出版时间：2010年06月
+ProductNum = 
+TheHtml = http://book.360buy.com/19254465.html
+evaluate = 
+
+bookname = The Runaway Bunny (with CD)(逃家小兔)
+Authoername = Margaret Wise Brown（玛格丽特·怀斯·布朗）
+price = ￥78.70（6折）
+PubDate = 出版时间：2004年12月
+ProductNum = 
+TheHtml = http://book.360buy.com/19009544.html
+evaluate = 
+
+bookname = Duck on a Bike ( Book+CD)(鸭子骑车记)
+Authoername = David Shannon（大卫·夏农）
+price = ￥72.10（6.1折）
+PubDate = 出版时间：2011年01月
+ProductNum = 
+TheHtml = http://book.360buy.com/19013808.html
+evaluate = 
+
+bookname = Sammy the Seal (Book and CD)(海豹萨米)
+Authoername = Syd Hoff（悉德·霍夫）
+price = ￥72.10（7.7折）
+PubDate = 出版时间：2007年11月
+ProductNum = 
+TheHtml = http://book.360buy.com/19004323.html
+evaluate = 
+
+bookname = The Golden Compass(Audio CD)
+Authoername = Philip Pullman（菲利普·铂尔曼）
+price = ￥224.30（8折）
+PubDate = 出版时间：2004年09月
+ProductNum = 
+TheHtml = http://book.360buy.com/19037303.html
+evaluate = 
+
+bookname = Stormbreaker(Audio CD)
+Authoername = Anthony Horowitz（安东尼·霍洛维茨）
+price = ￥224.30（8折）
+PubDate = 出版时间：2006年07月
+ProductNum = 
+TheHtml = http://book.360buy.com/19036710.html
+evaluate = 
+
+bookname = Danny and the Dinosaur Book and CD(丹尼与恐龙)
+Authoername = Syd Hoff（悉德·霍夫）
+price = ￥72.10（6.8折）
+PubDate = 出版时间：2005年06月
+ProductNum = 
+TheHtml = http://book.360buy.com/19004059.html
+evaluate = 
+
+bookname = Clifford's Birthday Party [Audio CD]
+Authoername = Norman Bridwell（罗曼·布莱德威尔）
+price = ￥71.80（6.1折）
+PubDate = 出版时间：2009年02月
+ProductNum = 
+TheHtml = http://book.360buy.com/19011596.html
+evaluate = 
+
+bookname = Harry Potter and the Deathly Hallows(Audio CD)
+Authoername = J. K. Rowling（J.K. 罗琳）
+price = ￥597.60（5折）
+PubDate = 出版时间：2007年07月
+ProductNum = 
+TheHtml = http://book.360buy.com/19036850.html
+evaluate = 
+
+bookname = The Magic School Bus: On the Ocean Floor [Book+CD](神奇校车：海底探险)
+Authoername = Joanna Cole（乔安娜·科尔）
+price = (已有115人评价)￥72.10
+PubDate = Scholastic
+ProductNum = 
+TheHtml = http://book.360buy.com/19011637.html
+evaluate = 
+
+bookname = Mouse Cookies & More: A Treasury [With CD (Audio) - 8 Songs and Celebrity Readings]
+Authoername = Laura Joffe Numeroff（劳拉·乔夫努梅罗夫）
+price = ￥196.70（6.5折）
+PubDate = 出版时间：1976年10月
+ProductNum = 
+TheHtml = http://book.360buy.com/19009431.html
+evaluate = 
+
+bookname = Danny and the Dinosaur Go to Camp (Book and CD)(丹尼和恐龙去露营)
+Authoername = Syd Hoff（悉德·霍夫）
+price = ￥72.10（7.7折）
+PubDate = 出版时间：2005年06月
+ProductNum = 
+TheHtml = http://book.360buy.com/19004060.html
+evaluate = 
+
+bookname = Charlotte's Web (Audio CD)(夏洛特的网（50周年CD版）)
+Authoername = E. B. White（E·B·怀特）
+price = ￥198.30（5.5折）
+PubDate = 出版时间：2002年05月
+ProductNum = 
+TheHtml = http://book.360buy.com/19037307.html
+evaluate = 
+
+bookname = Complete Book of Farmyard Tales(Book + CD)
+Authoername = Heather Amery（海瑟·埃默里）
+price = ￥189.40（6.8折）
+PubDate = 出版时间：2008年08月
+ProductNum = 
+TheHtml = http://book.360buy.com/19022061.html
+evaluate = 
+

@@ -1,0 +1,2 @@
+/home/zmc/MyProject/BookCrawler/build/utils/CMakeFiles/threadpool_lib.dir
+/home/zmc/MyProject/BookCrawler/build/src/CMakeFiles/zmcc.dir

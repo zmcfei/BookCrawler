@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../src/libs/libthreadpool_lib.a  CMakeFiles/threadpool_lib.dir/CXJob.cpp.o CMakeFiles/threadpool_lib.dir/CThread.cpp.o CMakeFiles/threadpool_lib.dir/CThreadPool.cpp.o CMakeFiles/threadpool_lib.dir/CWorkerThread.cpp.o CMakeFiles/threadpool_lib.dir/CThreadManage.cpp.o
+/usr/bin/ranlib ../src/libs/libthreadpool_lib.a

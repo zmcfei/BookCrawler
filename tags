@@ -1,0 +1,432 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+AnalyseLine	src/apps/global.cpp	/^bool global::AnalyseLine( const string &line , string &key , string &value )$/;"	f	class:global
+AppendToIdleList	threadpool/CThreadPool.cpp	/^void CThreadPool::AppendToIdleList(CWorkerThread* jobthread) $/;"	f	class:CThreadPool
+AppendToIdleList	utils/CThreadPool.cpp	/^void CThreadPool::AppendToIdleList(CWorkerThread* jobthread) $/;"	f	class:CThreadPool
+Author	src/apps/BookInfo.h	/^    string Author;$/;"	m	class:BookInfo
+BookInfo	src/apps/BookInfo.cpp	/^BookInfo::BookInfo()$/;"	f	class:BookInfo
+BookInfo	src/apps/BookInfo.cpp	/^BookInfo::BookInfo(const string Author, const string BookName, const string price, const string PubDate, const string ProductNum,const string TheHtml,const string evaluate):$/;"	f	class:BookInfo
+BookInfo	src/apps/BookInfo.h	/^class BookInfo$/;"	c
+BookName	src/apps/BookInfo.h	/^    string BookName;$/;"	m	class:BookInfo
+BuyUrl	bin/book360buy_19022061.html	/^                    function BuyUrl(wid) {$/;"	f
+CC	threadpool/makefile	/^CC=g++$/;"	m
+CC_FLAG	threadpool/makefile	/^CC_FLAG=-Wall$/;"	m
+CJOB_H	threadpool/CJob.h	2;"	d
+CJOB_H	utils/CJob.h	2;"	d
+CJob	threadpool/CJob.h	/^    CJob( void ){}$/;"	f	class:CJob
+CJob	threadpool/CJob.h	/^class CJob $/;"	c
+CJob	utils/CJob.h	/^    CJob( void ){}$/;"	f	class:CJob
+CJob	utils/CJob.h	/^class CJob $/;"	c
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/zmc\/MyProject\/BookCrawler\/build$/;"	m
+CMAKE_BINARY_DIR	build/src/Makefile	/^CMAKE_BINARY_DIR = \/home\/zmc\/MyProject\/BookCrawler\/build$/;"	m
+CMAKE_BINARY_DIR	build/utils/Makefile	/^CMAKE_BINARY_DIR = \/home\/zmc\/MyProject\/BookCrawler\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/src/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/utils/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/zmc\/MyProject\/BookCrawler$/;"	m
+CMAKE_SOURCE_DIR	build/src/Makefile	/^CMAKE_SOURCE_DIR = \/home\/zmc\/MyProject\/BookCrawler$/;"	m
+CMAKE_SOURCE_DIR	build/utils/Makefile	/^CMAKE_SOURCE_DIR = \/home\/zmc\/MyProject\/BookCrawler$/;"	m
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+CTHREADMANAGE_H	threadpool/CThreadManage.h	2;"	d
+CTHREADMANAGE_H	utils/CThreadManage.h	2;"	d
+CTHREADPOOL_H	threadpool/CThreadPool.h	2;"	d
+CTHREADPOOL_H	utils/CThreadPool.h	2;"	d
+CTHREAD_H	threadpool/CThread.h	2;"	d
+CTHREAD_H	utils/CThread.h	2;"	d
+CThread	threadpool/CThread.cpp	/^CThread::CThread() $/;"	f	class:CThread
+CThread	threadpool/CThread.h	/^class CThread $/;"	c
+CThread	utils/CThread.cpp	/^CThread::CThread() $/;"	f	class:CThread
+CThread	utils/CThread.h	/^class CThread $/;"	c
+CThreadManage	threadpool/CThreadManage.cpp	/^CThreadManage::CThreadManage()$/;"	f	class:CThreadManage
+CThreadManage	threadpool/CThreadManage.cpp	/^CThreadManage::CThreadManage(int num)$/;"	f	class:CThreadManage
+CThreadManage	threadpool/CThreadManage.h	/^class CThreadManage $/;"	c
+CThreadManage	utils/CThreadManage.cpp	/^CThreadManage::CThreadManage()$/;"	f	class:CThreadManage
+CThreadManage	utils/CThreadManage.cpp	/^CThreadManage::CThreadManage(int num)$/;"	f	class:CThreadManage
+CThreadManage	utils/CThreadManage.h	/^class CThreadManage $/;"	c
+CThreadMutex	threadpool/CThreadPool.h	/^            CThreadMutex(){ pthread_mutex_init(&this_lock, NULL); }$/;"	f	class:CThreadPool::CThreadMutex
+CThreadMutex	threadpool/CThreadPool.h	/^    class CThreadMutex$/;"	c	class:CThreadPool
+CThreadMutex	utils/CThreadPool.h	/^            CThreadMutex(){ pthread_mutex_init(&this_lock, NULL); }$/;"	f	class:CThreadPool::CThreadMutex
+CThreadMutex	utils/CThreadPool.h	/^    class CThreadMutex$/;"	c	class:CThreadPool
+CThreadPool	threadpool/CThreadPool.cpp	/^CThreadPool::CThreadPool() $/;"	f	class:CThreadPool
+CThreadPool	threadpool/CThreadPool.cpp	/^CThreadPool::CThreadPool(int initnum) $/;"	f	class:CThreadPool
+CThreadPool	threadpool/CThreadPool.h	/^class CThreadPool$/;"	c
+CThreadPool	utils/CThreadPool.cpp	/^CThreadPool::CThreadPool() $/;"	f	class:CThreadPool
+CThreadPool	utils/CThreadPool.cpp	/^CThreadPool::CThreadPool(int initnum) $/;"	f	class:CThreadPool
+CThreadPool	utils/CThreadPool.h	/^class CThreadPool$/;"	c
+CWORKERTHREAD_H	threadpool/CWorkerThread.h	2;"	d
+CWORKERTHREAD_H	utils/CWorkerThread.h	2;"	d
+CWorkerThread	threadpool/CWorkerThread.cpp	/^CWorkerThread::CWorkerThread()$/;"	f	class:CWorkerThread
+CWorkerThread	threadpool/CWorkerThread.h	/^class CWorkerThread : public CThread $/;"	c
+CWorkerThread	utils/CWorkerThread.cpp	/^CWorkerThread::CWorkerThread()$/;"	f	class:CWorkerThread
+CWorkerThread	utils/CWorkerThread.h	/^class CWorkerThread : public CThread $/;"	c
+CXJob	threadpool/threadpooltest.cpp	/^    CXJob(){} $/;"	f	class:CXJob
+CXJob	threadpool/threadpooltest.cpp	/^class CXJob:public CJob $/;"	c	file:
+CXJob	utils/CXJob.h	/^    CXJob(){} $/;"	f	class:CXJob
+CXJob	utils/CXJob.h	/^    CXJob(string Url) : pUrl(Url){} $/;"	f	class:CXJob
+CXJob	utils/CXJob.h	/^class CXJob : public CJob $/;"	c
+CallBackGetCommentCount	bin/book360buy_19022061.html	/^	    function CallBackGetCommentCount(result) {$/;"	f
+Clear	utils/Fifo.h	/^    void Clear()$/;"	f	class:Fifo
+CreateIdleThread	threadpool/CThreadPool.cpp	/^void CThreadPool::CreateIdleThread(int num) $/;"	f	class:CThreadPool
+CreateIdleThread	utils/CThreadPool.cpp	/^void CThreadPool::CreateIdleThread(int num) $/;"	f	class:CThreadPool
+DeleteIdleThread	threadpool/CThreadPool.cpp	/^void CThreadPool::DeleteIdleThread(int num) $/;"	f	class:CThreadPool
+DeleteIdleThread	utils/CThreadPool.cpp	/^void CThreadPool::DeleteIdleThread(int num) $/;"	f	class:CThreadPool
+DownLoadBookInfo	src/apps/HTTP360buyStream.cpp	/^void HTTP360buyStream::DownLoadBookInfo()$/;"	f	class:HTTP360buyStream
+DownLoadBookInfo	src/apps/URLElesupStream.cpp	/^void URLElesupStream::DownLoadBookInfo()$/;"	f	class:URLElesupStream
+ElesupStream	src/apps/ElesupStream.h	/^class ElesupStream$/;"	c
+Fifo	utils/Fifo.h	/^    Fifo() : size(0),first(NULL),last(NULL)$/;"	f	class:Fifo
+Fifo	utils/Fifo.h	/^    Fifo(const Fifo<T> & other)$/;"	f	class:Fifo
+Fifo	utils/Fifo.h	/^class Fifo$/;"	c
+Find	utils/Fifo.h	/^   LLNode<T> * Find(const T & v, LLNode<T> * n)$/;"	f	class:Fifo
+GetActualAvailNum	threadpool/CThreadPool.h	/^    int     GetActualAvailNum(void){return m_AvailNum;} $/;"	f	class:CThreadPool
+GetActualAvailNum	utils/CThreadPool.h	/^    int     GetActualAvailNum(void){return m_AvailNum;} $/;"	f	class:CThreadPool
+GetAllNum	threadpool/CThreadPool.h	/^    int     GetAllNum(void){return m_BusyList.size() + m_AvailNum;}$/;"	f	class:CThreadPool
+GetAllNum	utils/CThreadPool.h	/^    int     GetAllNum(void){return m_BusyList.size() + m_AvailNum;}$/;"	f	class:CThreadPool
+GetAvailHighNum	threadpool/CThreadPool.h	/^    int     GetAvailHighNum(void){return m_AvailHigh;} $/;"	f	class:CThreadPool
+GetAvailHighNum	utils/CThreadPool.h	/^    int     GetAvailHighNum(void){return m_AvailHigh;} $/;"	f	class:CThreadPool
+GetAvailLowNum	threadpool/CThreadPool.h	/^    int     GetAvailLowNum(void){return m_AvailLow;} $/;"	f	class:CThreadPool
+GetAvailLowNum	utils/CThreadPool.h	/^    int     GetAvailLowNum(void){return m_AvailLow;} $/;"	f	class:CThreadPool
+GetBusyNum	threadpool/CThreadPool.h	/^    int     GetBusyNum(void){return m_BusyList.size();} $/;"	f	class:CThreadPool
+GetBusyNum	utils/CThreadPool.h	/^    int     GetBusyNum(void){return m_BusyList.size();} $/;"	f	class:CThreadPool
+GetContext	utils/CXJob.cpp	/^std::string & CXJob::GetContext(const std::string & url)$/;"	f	class:CXJob
+GetFirst	utils/Fifo.h	/^    LLNode<T> * GetFirst() const$/;"	f	class:Fifo
+GetIdleThread	threadpool/CThreadPool.cpp	/^CWorkerThread* CThreadPool::GetIdleThread(void) $/;"	f	class:CThreadPool
+GetIdleThread	utils/CThreadPool.cpp	/^CWorkerThread* CThreadPool::GetIdleThread(void) $/;"	f	class:CThreadPool
+GetInitNum	threadpool/CThreadPool.h	/^    int     GetInitNum(void){return m_InitNum;} $/;"	f	class:CThreadPool
+GetInitNum	utils/CThreadPool.h	/^    int     GetInitNum(void){return m_InitNum;} $/;"	f	class:CThreadPool
+GetJob	threadpool/CWorkerThread.h	/^    CJob* GetJob(void){return m_Job;}$/;"	f	class:CWorkerThread
+GetJob	utils/CWorkerThread.h	/^    CJob* GetJob(void){return m_Job;}$/;"	f	class:CWorkerThread
+GetLast	utils/Fifo.h	/^    LLNode<T> * GetLast() const$/;"	f	class:Fifo
+GetLastError	threadpool/CThread.h	/^    int      GetLastError(void){return m_ErrCode;} $/;"	f	class:CThread
+GetLastError	utils/CThread.h	/^    int      GetLastError(void){return m_ErrCode;} $/;"	f	class:CThread
+GetMaxNum	threadpool/CThreadPool.h	/^    int     GetMaxNum(void){return m_MaxNum;} $/;"	f	class:CThreadPool
+GetMaxNum	utils/CThreadPool.h	/^    int     GetMaxNum(void){return m_MaxNum;} $/;"	f	class:CThreadPool
+GetNext	utils/Fifo.h	/^    LLNode<T> * GetNext() const$/;"	f	class:LLNode
+GetPrevious	utils/Fifo.h	/^    LLNode<T> * GetPrevious() const $/;"	f	class:LLNode
+GetSize	utils/Fifo.h	/^    int GetSize() const$/;"	f	class:Fifo
+GetThreadID	threadpool/CThread.h	/^    unsigned long   GetThreadID(void){return m_ThreadID;} $/;"	f	class:CThread
+GetThreadID	utils/CThread.h	/^    unsigned long   GetThreadID(void){return m_ThreadID;} $/;"	f	class:CThread
+GetThreadName	threadpool/CThread.h	/^    char*    GetThreadName(void){return m_ThreadName;} $/;"	f	class:CThread
+GetThreadName	utils/CThread.h	/^    char*    GetThreadName(void){return m_ThreadName;} $/;"	f	class:CThread
+GetThreadPool	threadpool/CWorkerThread.h	/^    CThreadPool* GetThreadPool(void){return m_ThreadPool;}$/;"	f	class:CWorkerThread
+GetThreadPool	utils/CWorkerThread.h	/^    CThreadPool* GetThreadPool(void){return m_ThreadPool;}$/;"	f	class:CWorkerThread
+GetValue	utils/Fifo.h	/^    const T & GetValue() const$/;"	f	class:LLNode
+GetWorkThread	threadpool/CJob.h	/^    CThread *GetWorkThread(void){ return m_pWorkThread; }$/;"	f	class:CJob
+GetWorkThread	utils/CJob.h	/^    CThread *GetWorkThread(void){ return m_pWorkThread; }$/;"	f	class:CJob
+HTTP360buyStream	src/apps/HTTP360buyStream.cpp	/^HTTP360buyStream::HTTP360buyStream(std::string url):Url(url)$/;"	f	class:HTTP360buyStream
+HTTP360buyStream	src/apps/HTTP360buyStream.h	/^class HTTP360buyStream : public ElesupStream$/;"	c
+ID_VOID_MAIN	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+INC	threadpool/makefile	/^INC=$/;"	m
+Init	src/apps/HTTP360buyStream.cpp	/^void HTTP360buyStream::Init()$/;"	f	class:HTTP360buyStream
+InputStream	src/apps/PageDownloader.h	/^    URLElesupStream *InputStream;$/;"	m	class:PageDownloader
+Insert	utils/Fifo.h	/^   LLNode<T> * Insert(const T & v, LLNode<T> * n)$/;"	f	class:Fifo
+IsCommentChar	src/apps/global.h	/^	bool IsCommentChar( char c )$/;"	f	struct:global
+IsEmpty	utils/Fifo.h	/^    bool IsEmpty() const$/;"	f	class:Fifo
+IsPrefix	src/apps/global.cpp	/^bool global::IsPrefix(const std::string & str, const std::string & prefix)$/;"	f	class:global
+IsSpace	src/apps/global.h	/^    bool IsSpace( char c )$/;"	f	struct:global
+LIB	threadpool/makefile	/^LIB=-lpthread$/;"	m
+LLNode	utils/Fifo.h	/^    LLNode(const LLNode<T> & other):$/;"	f	class:LLNode
+LLNode	utils/Fifo.h	/^    LLNode(const T & v, LLNode<T> *p, LLNode<T> * n) :$/;"	f	class:LLNode
+LLNode	utils/Fifo.h	/^class LLNode$/;"	c
+Lock	threadpool/CThreadPool.h	/^            void Lock(){ pthread_mutex_lock(&this_lock); }$/;"	f	class:CThreadPool::CThreadMutex
+Lock	utils/CThreadPool.h	/^            void Lock(){ pthread_mutex_lock(&this_lock); }$/;"	f	class:CThreadPool::CThreadMutex
+MoveToBusyList	threadpool/CThreadPool.cpp	/^void CThreadPool::MoveToBusyList(CWorkerThread* idlethread) $/;"	f	class:CThreadPool
+MoveToBusyList	utils/CThreadPool.cpp	/^void CThreadPool::MoveToBusyList(CWorkerThread* idlethread) $/;"	f	class:CThreadPool
+MoveToIdleList	threadpool/CThreadPool.cpp	/^void CThreadPool::MoveToIdleList(CWorkerThread* busythread) $/;"	f	class:CThreadPool
+MoveToIdleList	utils/CThreadPool.cpp	/^void CThreadPool::MoveToIdleList(CWorkerThread* busythread) $/;"	f	class:CThreadPool
+OBJ	threadpool/makefile	/^OBJ=CThreadManage.o CThreadPool.o CThread.o CWorkerThread.o threadpooltest.o$/;"	m
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+PRG	threadpool/makefile	/^PRG=threadpooltest$/;"	m
+PageDownloader	src/apps/PageDownloader.cpp	/^PageDownloader::PageDownloader()$/;"	f	class:PageDownloader
+PageDownloader	src/apps/PageDownloader.h	/^class PageDownloader$/;"	c
+ParseURL	src/apps/HTTP360buyStream.cpp	/^bool HTTP360buyStream::ParseURL(std::string & url)$/;"	f	class:HTTP360buyStream
+ParseURL	src/apps/URLElesupStream.cpp	/^bool URLElesupStream::ParseURL(std::string & url)$/;"	f	class:URLElesupStream
+PostSinaDate	bin/book360buy_19022061.html	/^	    function PostSinaDate(url) {$/;"	f
+ProductNum	src/apps/BookInfo.h	/^    string ProductNum;$/;"	m	class:BookInfo
+PubDate	src/apps/BookInfo.h	/^    string PubDate;$/;"	m	class:BookInfo
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/src/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/utils/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+Remove	utils/Fifo.h	/^   void Remove(LLNode<T> * n)$/;"	f	class:Fifo
+Run	threadpool/CThreadManage.cpp	/^void CThreadManage::Run(CJob* job,void* jobdata)$/;"	f	class:CThreadManage
+Run	threadpool/CThreadPool.cpp	/^void CThreadPool::Run(CJob* job,void* jobdata) $/;"	f	class:CThreadPool
+Run	threadpool/CWorkerThread.cpp	/^void CWorkerThread::Run()$/;"	f	class:CWorkerThread
+Run	threadpool/threadpooltest.cpp	/^    void Run(void* jobdata)$/;"	f	class:CXJob
+Run	utils/CThreadManage.cpp	/^void CThreadManage::Run(CJob* job,void* jobdata)$/;"	f	class:CThreadManage
+Run	utils/CThreadPool.cpp	/^void CThreadPool::Run(CJob* job,void* jobdata) $/;"	f	class:CThreadPool
+Run	utils/CWorkerThread.cpp	/^void CWorkerThread::Run()$/;"	f	class:CWorkerThread
+Run	utils/CXJob.cpp	/^void CXJob::Run(void* jobdata)$/;"	f	class:CXJob
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/utils/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/src/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/utils/Makefile	/^SUFFIXES =$/;"	m
+SetAvailHighNum	threadpool/CThreadPool.h	/^    void    SetAvailHighNum(int highnum){m_AvailHigh = highnum;} $/;"	f	class:CThreadPool
+SetAvailHighNum	utils/CThreadPool.h	/^    void    SetAvailHighNum(int highnum){m_AvailHigh = highnum;} $/;"	f	class:CThreadPool
+SetAvailLowNum	threadpool/CThreadPool.h	/^    void    SetAvailLowNum(int minnum){m_AvailLow = minnum;} $/;"	f	class:CThreadPool
+SetAvailLowNum	utils/CThreadPool.h	/^    void    SetAvailLowNum(int minnum){m_AvailLow = minnum;} $/;"	f	class:CThreadPool
+SetErrcode	threadpool/CThread.h	/^    void     SetErrcode(int errcode){m_ErrCode = errcode;} $/;"	f	class:CThread
+SetErrcode	utils/CThread.h	/^    void     SetErrcode(int errcode){m_ErrCode = errcode;} $/;"	f	class:CThread
+SetInitNum	threadpool/CThreadPool.h	/^    void    SetInitNum(int initnum){m_InitNum = initnum;} $/;"	f	class:CThreadPool
+SetInitNum	utils/CThreadPool.h	/^    void    SetInitNum(int initnum){m_InitNum = initnum;} $/;"	f	class:CThreadPool
+SetJob	threadpool/CWorkerThread.cpp	/^void CWorkerThread::SetJob(CJob* job,void* jobdata)$/;"	f	class:CWorkerThread
+SetJob	utils/CWorkerThread.cpp	/^void CWorkerThread::SetJob(CJob* job,void* jobdata)$/;"	f	class:CWorkerThread
+SetMaxNum	threadpool/CThreadPool.h	/^    void    SetMaxNum(int maxnum){m_MaxNum = maxnum;} $/;"	f	class:CThreadPool
+SetMaxNum	utils/CThreadPool.h	/^    void    SetMaxNum(int maxnum){m_MaxNum = maxnum;} $/;"	f	class:CThreadPool
+SetThreadName	threadpool/CThread.h	/^    void     SetThreadName(char* thrname){strcpy(m_ThreadName,thrname);} $/;"	f	class:CThread
+SetThreadName	utils/CThread.h	/^    void     SetThreadName(char* thrname){strcpy(m_ThreadName,thrname);} $/;"	f	class:CThread
+SetThreadPool	threadpool/CWorkerThread.cpp	/^void CWorkerThread::SetThreadPool(CThreadPool* thrpool)$/;"	f	class:CWorkerThread
+SetThreadPool	utils/CWorkerThread.cpp	/^void CWorkerThread::SetThreadPool(CThreadPool* thrpool)$/;"	f	class:CWorkerThread
+SetWorkThread	threadpool/CJob.h	/^    void     SetWorkThread ( CThread *pWorkThread ){ m_pWorkThread = pWorkThread; }$/;"	f	class:CJob
+SetWorkThread	utils/CJob.h	/^    void     SetWorkThread ( CThread *pWorkThread ){ m_pWorkThread = pWorkThread; }$/;"	f	class:CJob
+Start	threadpool/CThread.cpp	/^bool CThread::Start(CThread* cthread)$/;"	f	class:CThread
+Start	utils/CThread.cpp	/^bool CThread::Start(CThread* cthread)$/;"	f	class:CThread
+StreamFactory	src/apps/URLElesupStream.cpp	/^ElesupStream * URLElesupStream::StreamFactory(const std::string & url)$/;"	f	class:URLElesupStream
+TerminateAll	threadpool/CThreadManage.cpp	/^void CThreadManage::TerminateAll(void)$/;"	f	class:CThreadManage
+TerminateAll	threadpool/CThreadPool.cpp	/^void CThreadPool::TerminateAll() $/;"	f	class:CThreadPool
+TerminateAll	utils/CThreadManage.cpp	/^void CThreadManage::TerminateAll(void)$/;"	f	class:CThreadManage
+TerminateAll	utils/CThreadPool.cpp	/^void CThreadPool::TerminateAll() $/;"	f	class:CThreadPool
+TheHtml	src/apps/BookInfo.h	/^    string TheHtml;$/;"	m	class:BookInfo
+ThreadFunction	threadpool/CThread.cpp	/^void* CThread::ThreadFunction(void* param) $/;"	f	class:CThread
+ThreadFunction	utils/CThread.cpp	/^void* CThread::ThreadFunction(void* param) $/;"	f	class:CThread
+Trim	src/apps/global.cpp	/^void global::Trim( string &str )$/;"	f	class:global
+URL	src/apps/PageDownloader.h	/^    std::string URL;$/;"	m	class:PageDownloader
+URLElesupStream	src/apps/URLElesupStream.cpp	/^URLElesupStream::URLElesupStream(const std::string & Url):$/;"	f	class:URLElesupStream
+URLElesupStream	src/apps/URLElesupStream.h	/^class URLElesupStream : public ElesupStream$/;"	c
+Unlock	threadpool/CThreadPool.h	/^            void Unlock(){ pthread_mutex_unlock(&this_lock); }$/;"	f	class:CThreadPool::CThreadMutex
+Unlock	utils/CThreadPool.h	/^            void Unlock(){ pthread_mutex_unlock(&this_lock); }$/;"	f	class:CThreadPool::CThreadMutex
+Url	src/apps/HTTP360buyStream.h	/^    std::string Url;$/;"	m	class:HTTP360buyStream
+UrlContext	src/apps/HTTP360buyStream.h	/^    string UrlContext;$/;"	m	class:HTTP360buyStream
+UrlContext	utils/CXJob.h	/^   string UrlContext; $/;"	m	class:CXJob
+_CXJob_	utils/CXJob.h	2;"	d
+_ElesupStream_h	src/apps/ElesupStream.h	7;"	d
+_Fifo_	utils/Fifo.h	2;"	d
+_URLElesupStream_	src/apps/URLElesupStream.h	2;"	d
+_bookinfo_	src/apps/BookInfo.h	2;"	d
+_global_	src/apps/global.h	2;"	d
+bookinfolist	src/apps/global.h	/^    static Fifo<BookInfo> * bookinfolist;	$/;"	m	struct:global
+bookinfolist	src/main.cpp	/^Fifo<BookInfo> * global::bookinfolist;$/;"	m	class:global	file:
+booklist	src/apps/global.h	/^    static Fifo<string> * booklist;$/;"	m	struct:global
+contains	utils/Fifo.h	/^   bool contains(const T & v)$/;"	f	class:Fifo
+copyList	utils/Fifo.h	/^   void copyList(const Fifo<T> & other)$/;"	f	class:Fifo
+defaultConfig	src/apps/global.h	/^	bool defaultConfig()$/;"	f	struct:global
+deletefirst	utils/Fifo.h	/^   void deletefirst()$/;"	f	class:Fifo
+downloadPage	src/apps/PageDownloader.cpp	/^void PageDownloader::downloadPage(std::string & url)$/;"	f	class:PageDownloader
+evaluate	src/apps/BookInfo.h	/^    string evaluate;$/;"	m	class:BookInfo
+first	utils/Fifo.h	/^    LLNode<T> * first;$/;"	m	class:Fifo
+flag	threadpool/threadpooltest.cpp	/^int flag = 0;$/;"	v
+getBookhherf	src/apps/HTTP360buyStream.cpp	/^void HTTP360buyStream::getBookhherf()$/;"	f	class:HTTP360buyStream
+getProductNum	src/apps/BookInfo.cpp	/^int BookInfo::getProductNum(const string & TheHtml)$/;"	f	class:BookInfo
+getSuitService	bin/book360buy_19022061.html	/^function getSuitService(json) {$/;"	f
+global	src/apps/global.cpp	/^global::global(int argc, char *argv[])$/;"	f	class:global
+global	src/apps/global.h	/^struct global$/;"	s
+httpport	src/apps/global.cpp	/^int global::httpport;$/;"	m	class:global	file:
+httpport	src/apps/global.h	/^    static int httpport;$/;"	m	struct:global
+info_arch	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+isURL	src/apps/HTTP360buyStream.cpp	/^bool HTTP360buyStream::isURL(std::string & url)$/;"	f	class:HTTP360buyStream
+jdPshowRecommend	bin/book360buy_19022061.html	/^	    function jdPshowRecommend(url, stype) {$/;"	f
+last	utils/Fifo.h	/^    LLNode<T> * last;$/;"	m	class:Fifo
+loca_str_html	utils/CXJob.cpp	/^void CXJob::loca_str_html(const string & context)$/;"	f	class:CXJob
+mStream	src/apps/URLElesupStream.h	/^    ElesupStream * mStream;$/;"	m	class:URLElesupStream
+m_AvailHigh	threadpool/CThreadPool.h	/^    unsigned int m_AvailHigh; \/\/The max num of idle thread that kept at the same time $/;"	m	class:CThreadPool
+m_AvailHigh	utils/CThreadPool.h	/^    unsigned int m_AvailHigh; \/\/The max num of idle thread that kept at the same time $/;"	m	class:CThreadPool
+m_AvailLow	threadpool/CThreadPool.h	/^    unsigned int m_AvailLow; \/\/The min num of idle thread that shoule kept $/;"	m	class:CThreadPool
+m_AvailLow	utils/CThreadPool.h	/^    unsigned int m_AvailLow; \/\/The min num of idle thread that shoule kept $/;"	m	class:CThreadPool
+m_AvailNum	threadpool/CThreadPool.h	/^    unsigned int m_AvailNum; \/\/the normal thread num of idle num; $/;"	m	class:CThreadPool
+m_AvailNum	utils/CThreadPool.h	/^    unsigned int m_AvailNum; \/\/the normal thread num of idle num; $/;"	m	class:CThreadPool
+m_BusyList	threadpool/CThreadPool.h	/^    vector<CWorkerThread*>   m_BusyList;     \/\/Thread List $/;"	m	class:CThreadPool
+m_BusyList	utils/CThreadPool.h	/^    vector<CWorkerThread*>   m_BusyList;     \/\/Thread List $/;"	m	class:CThreadPool
+m_BusyMutex	threadpool/CThreadPool.h	/^    CThreadMutex m_BusyMutex;    \/\/when visit busy list,use m_BusyMutex to lock and unlock $/;"	m	class:CThreadPool
+m_BusyMutex	utils/CThreadPool.h	/^    CThreadMutex m_BusyMutex;    \/\/when visit busy list,use m_BusyMutex to lock and unlock $/;"	m	class:CThreadPool
+m_ErrCode	threadpool/CThread.h	/^    int          m_ErrCode; $/;"	m	class:CThread
+m_ErrCode	utils/CThread.h	/^    int          m_ErrCode; $/;"	m	class:CThread
+m_IdleList	threadpool/CThreadPool.h	/^    vector<CWorkerThread*>   m_IdleList; \/\/Idle List $/;"	m	class:CThreadPool
+m_IdleList	utils/CThreadPool.h	/^    vector<CWorkerThread*>   m_IdleList; \/\/Idle List $/;"	m	class:CThreadPool
+m_IdleMutex	threadpool/CThreadPool.h	/^    CThreadMutex m_IdleMutex;    \/\/when visit idle list,use m_IdleMutex to lock and unlock $/;"	m	class:CThreadPool
+m_IdleMutex	utils/CThreadPool.h	/^    CThreadMutex m_IdleMutex;    \/\/when visit idle list,use m_IdleMutex to lock and unlock $/;"	m	class:CThreadPool
+m_InitNum	threadpool/CThreadPool.h	/^    unsigned int m_InitNum;  \/\/Normal thread num; $/;"	m	class:CThreadPool
+m_InitNum	utils/CThreadPool.h	/^    unsigned int m_InitNum;  \/\/Normal thread num; $/;"	m	class:CThreadPool
+m_Job	threadpool/CWorkerThread.h	/^    CJob* m_Job;$/;"	m	class:CWorkerThread
+m_Job	utils/CWorkerThread.h	/^    CJob* m_Job;$/;"	m	class:CWorkerThread
+m_JobData	threadpool/CWorkerThread.h	/^    void* m_JobData;$/;"	m	class:CWorkerThread
+m_JobData	utils/CWorkerThread.h	/^    void* m_JobData;$/;"	m	class:CWorkerThread
+m_MaxNum	threadpool/CThreadPool.h	/^    unsigned int m_MaxNum;   \/\/the max thread num that can create at the same time $/;"	m	class:CThreadPool
+m_MaxNum	utils/CThreadPool.h	/^    unsigned int m_MaxNum;   \/\/the max thread num that can create at the same time $/;"	m	class:CThreadPool
+m_NumOfThread	threadpool/CThreadManage.h	/^    int          m_NumOfThread; $/;"	m	class:CThreadManage
+m_NumOfThread	utils/CThreadManage.h	/^    int          m_NumOfThread; $/;"	m	class:CThreadManage
+m_Pool	threadpool/CThreadManage.h	/^    CThreadPool* m_Pool; $/;"	m	class:CThreadManage
+m_Pool	utils/CThreadManage.h	/^    CThreadPool* m_Pool; $/;"	m	class:CThreadManage
+m_ThreadID	threadpool/CThread.h	/^    unsigned     long m_ThreadID;    $/;"	m	class:CThread
+m_ThreadID	utils/CThread.h	/^    unsigned     long m_ThreadID;    $/;"	m	class:CThread
+m_ThreadName	threadpool/CThread.h	/^    char*        m_ThreadName; $/;"	m	class:CThread
+m_ThreadName	utils/CThread.h	/^    char*        m_ThreadName; $/;"	m	class:CThread
+m_ThreadPool	threadpool/CWorkerThread.h	/^    CThreadPool* m_ThreadPool;$/;"	m	class:CWorkerThread
+m_ThreadPool	utils/CWorkerThread.h	/^    CThreadPool* m_ThreadPool;$/;"	m	class:CWorkerThread
+m_pWorkThread	threadpool/CJob.h	/^    CThread  *m_pWorkThread;     \/\/The thread associated with the job $/;"	m	class:CJob
+m_pWorkThread	utils/CJob.h	/^    CThread  *m_pWorkThread;     \/\/The thread associated with the job $/;"	m	class:CJob
+m_thread	threadpool/CThread.h	/^    pthread_t    *m_thread;$/;"	m	class:CThread
+m_thread	utils/CThread.h	/^    pthread_t    *m_thread;$/;"	m	class:CThread
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	src/getcontext.cpp	/^int main ()$/;"	f
+main	src/main.cpp	/^int main(int argc,char *argv[])$/;"	f
+main	threadpool/threadpooltest.cpp	/^int main(void) $/;"	f
+manage	src/apps/HTTP360buyStream.h	/^    CThreadManage * manage;$/;"	m	class:HTTP360buyStream
+next	utils/Fifo.h	/^    LLNode<T> * next;$/;"	m	class:LLNode
+operator <<	src/apps/BookInfo.cpp	/^std::ostream & operator<<(ostream & os,const BookInfo & bk)$/;"	f
+operator =	utils/Fifo.h	/^    Fifo<T> & operator= (const Fifo<T> & other)$/;"	f	class:Fifo
+operator =	utils/Fifo.h	/^    LLNode<T> & operator=(const LLNode & other)$/;"	f	class:LLNode
+output_file	src/apps/global.h	/^    static ofstream output_file;$/;"	m	struct:global
+output_file	src/main.cpp	/^ofstream global::output_file;$/;"	m	class:global	file:
+pUrl	utils/CXJob.h	/^   string pUrl; $/;"	m	class:CXJob
+prev	utils/Fifo.h	/^    LLNode<T> * prev;$/;"	m	class:LLNode
+price	src/apps/BookInfo.h	/^    string price;$/;"	m	class:BookInfo
+print	utils/Fifo.h	/^   void print(ofstream & output)$/;"	f	class:Fifo
+readConfig	src/apps/global.cpp	/^bool global::readConfig(char * filename)$/;"	f	class:global
+setSuitWidth	bin/book360buy_19022061.html	/^function setSuitWidth(url, object, n) {$/;"	f
+size	utils/Fifo.h	/^    int size;$/;"	m	class:Fifo
+starturl	src/apps/global.cpp	/^string global::starturl;$/;"	m	class:global	file:
+starturl	src/apps/global.h	/^    static string starturl;$/;"	m	struct:global
+this_lock	threadpool/CThreadPool.h	/^            pthread_mutex_t this_lock;$/;"	m	class:CThreadPool::CThreadMutex
+this_lock	utils/CThreadPool.h	/^            pthread_mutex_t this_lock;$/;"	m	class:CThreadPool::CThreadMutex
+value	utils/Fifo.h	/^    T value;$/;"	m	class:LLNode
+writer	src/getcontext.cpp	/^int writer(char *data, size_t size, size_t nmemb, string *buffer){$/;"	f
+writer	utils/CXJob.cpp	/^int CXJob::writer(char *data, size_t size, size_t nmemb, std::string *buffer)$/;"	f	class:CXJob
+~BookInfo	src/apps/BookInfo.cpp	/^BookInfo::~BookInfo()$/;"	f	class:BookInfo
+~CJob	threadpool/CJob.h	/^    virtual ~CJob(){}$/;"	f	class:CJob
+~CJob	utils/CJob.h	/^    virtual ~CJob(){}$/;"	f	class:CJob
+~CThread	threadpool/CThread.cpp	/^CThread::~CThread()$/;"	f	class:CThread
+~CThread	utils/CThread.cpp	/^CThread::~CThread()$/;"	f	class:CThread
+~CThreadManage	threadpool/CThreadManage.cpp	/^CThreadManage::~CThreadManage()$/;"	f	class:CThreadManage
+~CThreadManage	utils/CThreadManage.cpp	/^CThreadManage::~CThreadManage()$/;"	f	class:CThreadManage
+~CThreadMutex	threadpool/CThreadPool.h	/^            ~CThreadMutex(){ pthread_mutex_destroy(&this_lock); }$/;"	f	class:CThreadPool::CThreadMutex
+~CThreadMutex	utils/CThreadPool.h	/^            ~CThreadMutex(){ pthread_mutex_destroy(&this_lock); }$/;"	f	class:CThreadPool::CThreadMutex
+~CThreadPool	threadpool/CThreadPool.cpp	/^CThreadPool::~CThreadPool() $/;"	f	class:CThreadPool
+~CThreadPool	utils/CThreadPool.cpp	/^CThreadPool::~CThreadPool() $/;"	f	class:CThreadPool
+~CWorkerThread	threadpool/CWorkerThread.cpp	/^CWorkerThread::~CWorkerThread()$/;"	f	class:CWorkerThread
+~CWorkerThread	utils/CWorkerThread.cpp	/^CWorkerThread::~CWorkerThread()$/;"	f	class:CWorkerThread
+~CXJob	threadpool/threadpooltest.cpp	/^    ~CXJob(){} $/;"	f	class:CXJob
+~CXJob	utils/CXJob.h	/^    ~CXJob(){}$/;"	f	class:CXJob
+~ElesupStream	src/apps/ElesupStream.h	/^    virtual ~ElesupStream(){}$/;"	f	class:ElesupStream
+~Fifo	utils/Fifo.h	/^    ~Fifo()$/;"	f	class:Fifo
+~HTTP360buyStream	src/apps/HTTP360buyStream.cpp	/^HTTP360buyStream::~HTTP360buyStream()$/;"	f	class:HTTP360buyStream
+~PageDownloader	src/apps/PageDownloader.cpp	/^PageDownloader::~PageDownloader()$/;"	f	class:PageDownloader
+~URLElesupStream	src/apps/URLElesupStream.cpp	/^URLElesupStream::~URLElesupStream()$/;"	f	class:URLElesupStream
+~global	src/apps/global.cpp	/^global::~global()$/;"	f	class:global
