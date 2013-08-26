@@ -1,7 +1,7 @@
 FUNCTION
 /// @file README
 /// @brief crawl books infoamtion from 360buy ,it includes bookname authorname publicdate Thehtml and its productnum,store those book's information to the global::bookinfolist.
-/// @author ght
+/// @author ght guo海涛
 /// @version zmcc1.0
 /// @date 2013-02-03
 
@@ -28,4 +28,5 @@ HOW TO USE IT:
 ./bin/zmcc
 ./bin/zmcc yourconffilename
 
-
+//自己独立完成,虽然不是很大，但是清除了整个爬虫流程和架构。
+//重点使用了工厂设计模式,方便扩展（除了图书类也可能爬取目标。）
