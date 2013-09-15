@@ -1,5 +1,38 @@
 BookCrawler
 ===========
+FUNCTION
+/// @file README
+/// @brief crawl books infoamtion from 360buy ,it includes bookname authorname publicdate Thehtml and its productnum,store those book's information to the global::bookinfolist.
+/// @author ght guo 海涛
+/// @version zmcc1.0
+/// @date 2013-02-03
+
+
+
+// Copyright (C) 
+// 
+// This program is free software; you can redistribute it and/or
+// modify it under the terms of the GNU General Public License
+// as published by the Free Software Foundation; either version 2
+// of the License, or (at your option) any later version.
+// 
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+// 
+// You should have received a copy of the GNU General Public License
+// along with this program; if not, write to the Free Software
+// Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+// 
+
+HOW TO USE IT:
+./bin/zmcc
+./bin/zmcc yourconffilename
+
+++自己独立完成,虽然不是很大，但是清楚了整个爬虫流程和架构。
+++重点使用了工厂设计模式,方便扩展（非图书类目标也可以成为下一阶段的爬取目标）
+
 采用单线成并且依次获取网页内容中的下一页，插入到待爬取的列表中--->抓取所有Arts & Photography（艺术与摄影)的图书，用时323.895s.
 抓取7950 图书记录用时 323.895s  ---> 24.6个/s 的速度。  
 图书信息包括 （图书名称/作者/价钱/出版时间/图书介绍网页）  
